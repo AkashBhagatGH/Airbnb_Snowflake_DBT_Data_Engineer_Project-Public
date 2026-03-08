@@ -1,0 +1,5 @@
+{
+    "python-envs.pythonProjects": [],
+    "dbt.enableNewLineagePanel": true,
+    "dbt.perspectiveTheme": "Pro Dark"
+}
